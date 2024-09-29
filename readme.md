@@ -1,5 +1,3 @@
-Here's a sample `README.md` file that explains how to load your Chrome extension into Chrome. You can customize it further as needed.
-
 ````markdown
 # Mulebuy Chrome Extension
 
@@ -52,17 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact me at [your-email@example.com].
-
-```
-
-### Instructions to Customize:
-- **Repository URL**: Replace `https://github.com/your-username/mulebuy-extension.git` with your actual GitHub repository URL.
-- **Contact Email**: Replace `[your-email@example.com]` with your actual contact email.
-- **License**: If you're using a different license, update the license section accordingly.
-
-### Usage
-To use this `README.md`, create a new file in your repository named `README.md` and copy the contents above into it. This will help users understand how to load and use your Chrome extension.
-
-Let me know if you need any more adjustments or additional sections!
-```
+For any questions or feedback, please contact me on here.
